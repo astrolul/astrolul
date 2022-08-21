@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/liberapay/goal/astrolul.svg?logo=liberapay">
+<noscript><a href="https://liberapay.com/astrolul/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 - 👋 Hi, I'm @astrolul
 - 👀 I'm interested in Linux, Programming and Ethical Hacking
