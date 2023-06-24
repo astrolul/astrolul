@@ -1,5 +1,3 @@
 - 👋 Hi, I'm @astrolul
-- 👀 I'm interested in Programming and Ethical Hacking
-- 🌱 I'm currently using Windows 10 as my Daily Driver OS
-- 💻 I'm looking to learn Python, C etc
-- 📫 How to reach me pray to god to see me on street when u are walking to the store
+- 👀 I'm interested in Android Phone Development and Artificial Intelligence
+- 🌱 I'm currently using OpenSUSE Leap as my Operating System
