@@ -1,3 +1,3 @@
 - 👋 Hi, I'm @astrolul
-- 👀 I'm interested in Android Phone Development and Artificial Intelligence
-- 🌱 I'm currently using OpenSUSE Leap as my Operating System
+- 👀 I'm interested in Music, Programming and Artificial Intelligence
+- 🌱 I'm currently using Gentoo Linux as my Operating System
