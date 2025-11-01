@@ -1,3 +1,3 @@
 - 👋 Hi, I'm @astrolul
 - 👀 I'm interested in Music, Programming and Artificial Intelligence
-- 🌱 I'm currently using Gentoo Linux as my Operating System
+- 🌱 I'm currently using NixOS as my Operating System
